@@ -10,7 +10,7 @@
 在 `registry` 文件夹下存在注册表文件，双击以导入相应设置。
 
 === 方法二：PowerShell 脚本
-. 创建文件夹 `C:\opt`，将 `DoublePinyinSwitcher` 文件夹放到其中
+. 创建文件夹 `C:\opt`，将 `DoublePinyinSwitcher` 文件夹放到其中。
 . 添加任务计划
 .. 从 `开始` 菜单中，找到并运行 `Windows 管理工具` -> `任务计划程序`。
 .. 点击菜单 `操作` -> `导入任务`，选择 `DoublePinyinSwitcher` 文件夹下的 `DoublePinyinSwitcher.xml`。
